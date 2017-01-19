@@ -1,0 +1,25 @@
+{
+  "name": "redux-form-v5-wrapper",
+  "version": "1.0.2",
+  "description": "Slim wrapper for redux-form v5.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strydercorp/redux-form-v5-wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strydercorp/redux-form-v5-wrapper/issues"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-redux": "^4.4.1",
+    "redux": "^3.6.0",
+    "redux-form": "^5.3.2"
+  },
+  "homepage": "https://github.com/strydercorp/redux-form-v5-wrapper#readme"
+}
